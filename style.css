@@ -1,0 +1,20 @@
+.one{
+	width: 30px;
+	height: 30px;
+	border: 2px solid red;
+	margin-bottom: 10px;
+}
+
+.two{
+	width: 30px;
+	height: 30px;
+	border: 2px solid red;
+	margin-bottom: 10px;
+}
+
+.third{
+	margin-bottom: 15px;
+	display: flex;
+	width: 300px;
+	height: 300px;
+}
